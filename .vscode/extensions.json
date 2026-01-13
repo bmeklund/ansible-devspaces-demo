@@ -3,6 +3,8 @@
         "ms-python.python",
         "redhat.ansible",
         "redhat.vscode-openshift-connector",
-        "ms-python.black-formatter"
+        "ms-python.black-formatter",
+        "streetsidesoftware.code-spell-checker",
+		"johnpapa.winteriscoming"
     ]
 }
